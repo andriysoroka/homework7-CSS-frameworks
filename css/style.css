@@ -80,11 +80,10 @@ main h1 {
   margin: 20px 0 0 0;
 }
 .section-top .section-top-1 {
-  height: 460px;
   padding-left: 0;
   padding-right: 0;
 }
-.section-top .section-top-1 img {
+.section-top .section-top-1 figure img {
   height: 100%;
   width: 100%;
 }
