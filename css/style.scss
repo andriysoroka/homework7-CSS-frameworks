@@ -87,9 +87,11 @@ main {
 		height: 460px;
 		padding-left: 0;
 		padding-right: 0;
-		img {
-			height: 100%;
-			width: 100%;
+		figure {
+			img {
+				height: 100%;
+				width: 100%;
+			}
 		}
 	}
 	.section-top-2 {
